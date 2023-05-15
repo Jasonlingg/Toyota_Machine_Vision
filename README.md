@@ -29,7 +29,7 @@ This proposal presents a dependable approach to leverage automation in order to 
 
 **Machine Learning Model**
 
-Developed a machine learning model which can conclusivley determine weather a circle captured by computer vision technology is a sticker or an open hole, and detect wrinkles in said sticker. We used a data set of 300 test images to train this model, it's effective implemntation remains a work in progress. 
+Developed a machine learning model which can conclusively determine whether a circle captured by computer vision technology is a sticker or an open hole, and detect wrinkles in said sticker. We used a data set of 300 test images to train this model, it's effective implementation remains a work in progress. 
 
 # Next Steps
 
